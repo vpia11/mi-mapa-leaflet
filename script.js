@@ -1,5 +1,5 @@
 // Inicializar el mapa en una ubicación específica
-var map = L.map('map').setView([-34.6037, -58.3816], 13); // Buenos Aires
+var map = L.map('map').setView([-41.1335, -67.0832], 6);
 
 // Agregar capa base de OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
